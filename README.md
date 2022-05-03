@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rizbelarmino
+- 👋 Hi, I’m @rizaliebelarmino
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on different programming activities
